@@ -17,12 +17,12 @@ A chatbot built using React, Node.js, and PostgreSQL.
 
 # Backend
 
-cd chatbot-server
-npm install
-npm start
+-cd chatbot-server
+-npm install
+-npm start
 
 # Frontend
 
-cd chatbot-frontend
-npm install
-npm start
+-cd chatbot-frontend
+-npm install
+-npm start
